@@ -1,6 +1,6 @@
 # Bookfinder 
 
-Functionality: User can add and find books based on Author and Title of the book. To find all books type * and press Enter.
+Functionality: User can add and find books based on Author and Title of the book. To find all books type * and press Enter. Currently the project use browser local storage to store all the books. Make sure to add books before searching for books.
 
 This project was bootstrapped with [Create React Book](https://github.com/facebook/create-react-app).
 

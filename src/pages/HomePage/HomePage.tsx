@@ -84,7 +84,7 @@ class HomePage extends React.Component<BooksPropInterface, BooksStateInterface> 
             <Typography component="h1" variant="h5">
               Add Books
             </Typography>
-            <form className="jss3">
+            <form>
               <TextField
                   variant="outlined"
                   margin="normal"

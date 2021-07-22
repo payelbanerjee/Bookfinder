@@ -1880,7 +1880,7 @@
 
 "@types/react-datepicker@^4.1.3":
   version "4.1.3"
-  resolved "https://registry.npmjs.org/@types/react-datepicker/-/react-datepicker-4.1.3.tgz"
+  resolved "https://registry.yarnpkg.com/@types/react-datepicker/-/react-datepicker-4.1.3.tgz#bd9dad23cf2a7842c818af128b62c678e15790a7"
   integrity sha512-2BHqwVGDv8QoSyrYxR1xjGvnJA2TRfshKgOg6k4eExLJebzkCmJMDlhkLCJYiu3OPTgE6wuaC5uJ0oseqR4RCQ==
   dependencies:
     "@types/react" "*"
